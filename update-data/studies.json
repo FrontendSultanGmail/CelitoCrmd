@@ -1,0 +1,34 @@
+[
+  {
+    "studyNumber": 243560,
+    "protocolName": "Aenean commodo ligula eget dolor. Betsdef magnis dis",
+    "totalStudy": 100,
+    "lastupdated": "07/01/2021",
+    "active": true,
+    "isLocked": false
+  },
+  {
+    "studyNumber": 243561,
+    "protocolName": "Aenean commodo ligula eget dolor. Betsdef magnis dis",
+    "totalStudy": 100,
+    "lastupdated": "07/01/2021",
+    "active": false,
+    "isLocked": true
+  },
+  {
+    "studyNumber": 243562,
+    "protocolName": "Aenean commodo ligula eget dolor. Betsdef magnis dis",
+    "totalStudy": 100,
+    "lastupdated": "07/01/2021",
+    "active": false,
+    "isLocked": false
+  },
+  {
+    "studyNumber": 243563,
+    "protocolName": "Aenean commodo ligula eget dolor. Betsdef magnis dis",
+    "totalStudy": 100,
+    "lastupdated": "07/01/2021",
+    "active": false,
+    "isLocked": false
+  }
+]
