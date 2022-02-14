@@ -1,0 +1,11 @@
+<svg id="Icon_Grid_view" data-name="Icon/Grid view" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Rectangle_931" data-name="Rectangle 931" width="20" height="20" fill="#666" opacity="0"/>
+  <g id="Iconly_Two-tone_Category" data-name="Iconly/Two-tone/Category" transform="translate(3 3)">
+    <g id="Category">
+      <path id="Stroke_1" data-name="Stroke 1" d="M1.714,0H4A1.722,1.722,0,0,1,5.714,1.729V4.035A1.722,1.722,0,0,1,4,5.764H1.714A1.722,1.722,0,0,1,0,4.035V1.729A1.722,1.722,0,0,1,1.714,0Z" transform="translate(8.286)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" opacity="0.4"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M1.714,0H4A1.722,1.722,0,0,1,5.714,1.729V4.035A1.722,1.722,0,0,1,4,5.764H1.714A1.722,1.722,0,0,1,0,4.035V1.729A1.722,1.722,0,0,1,1.714,0Z" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M1.714,0H4A1.722,1.722,0,0,1,5.714,1.73V4.035A1.722,1.722,0,0,1,4,5.764H1.714A1.722,1.722,0,0,1,0,4.035V1.73A1.722,1.722,0,0,1,1.714,0Z" transform="translate(0 8.236)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M1.714,0H4A1.722,1.722,0,0,1,5.714,1.73V4.035A1.722,1.722,0,0,1,4,5.764H1.714A1.722,1.722,0,0,1,0,4.035V1.73A1.722,1.722,0,0,1,1.714,0Z" transform="translate(8.286 8.236)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>
